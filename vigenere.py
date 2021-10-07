@@ -26,7 +26,7 @@ f1.pack(side=LEFT)
 
 
 lblInfo = Label(Tops, font=('helvetica', 50, 'bold'),
-                text="SECRET MESSAGING \n Vigenère Cipher",
+                text="SECRET MESSAGING \n Developed by Mr. Rohan Kasabe",
                 fg="Black", bd=10, anchor='w')
 
 lblInfo.grid(row=0, column=0)
