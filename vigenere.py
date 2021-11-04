@@ -172,3 +172,4 @@ btnExit = Button(f1, padx=16, pady=8, bd=16,
 
 # keeps window alive
 root.mainloop()
+
