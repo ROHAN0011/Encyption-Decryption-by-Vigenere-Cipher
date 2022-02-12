@@ -8,4 +8,4 @@
  
  This project uses the working methodology of Vigenere Cipher.</h3>
 
-<p align= "center"><img src="https://github.com/ROHAN0011/Id-Card-Generator-with-QR-Code/blob/ef26a013cd5e131a21c9157b54e7da956c6b6fa1/ID%20with%20QR.jpeg" width="700" height= "350"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Encyption-Decryption-by-Vigenere-Cipher/blob/32af01df400d457fd0b6517502a24306afe4fe91/Encrypt%20Decrypt.jpeg" width="700" height= "350"></p>
