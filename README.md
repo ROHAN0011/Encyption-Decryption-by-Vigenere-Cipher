@@ -8,4 +8,4 @@
  
  This project uses the working methodology of Vigenere Cipher.</h3>
 
-<p align= "center"><img src="https://github.com/ROHAN0011/Encyption-Decryption-by-Vigenere-Cipher/blob/32af01df400d457fd0b6517502a24306afe4fe91/Encrypt%20Decrypt.jpeg" width="700" height= "300"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Encyption-Decryption-by-Vigenere-Cipher/blob/32af01df400d457fd0b6517502a24306afe4fe91/Encrypt%20Decrypt.jpeg" width="650" height= "300"></p>
